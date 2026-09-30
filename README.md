@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # Hi, I'm Aditya<br><br>CSE student specializing in AI/ML.<br><br>I enjoy building software, studying machine learning,<br>solving algorithmic problems, and understanding systems<br>from the ground up.<br><br>## Currently working on<br><br>- Machine Learning<br>- Backend Engineering<br>- Data Structures & Algorithms<br>- RAG & AI Security<br>- Neurogenesis<br><br>## Interests<br><br>AI/ML · Backend · Systems · Algorithms · AI Security<br><br>## Languages<br><br>C++ · Python · Java · SQL · JavaScript<br><br>## Currently learning<br><br>- Data Structures & Algorithms<br>- Backend Engineering<br>- Machine Learning<br>- Systems Design
 
 
